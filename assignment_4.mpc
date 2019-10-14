@@ -1,0 +1,15 @@
+project (assignment4) {
+  exename = assignment4
+  install = .
+ 
+  specific (make, gnuace) {
+    compile_flags += -std=c++11
+  }
+
+  Source_Files {
+    Main.cpp
+	Tree_Builder.cpp
+	AVL_Tree.cpp
+	Node.cpp
+  }
+}

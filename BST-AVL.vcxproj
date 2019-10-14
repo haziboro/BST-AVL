@@ -24,6 +24,9 @@
     <ClCompile Include="Node.cpp" />
     <ClCompile Include="Tree_Builder.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="assignment_4.mpc" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{A049935E-621B-4CCB-A771-AF6D4D356F26}</ProjectGuid>

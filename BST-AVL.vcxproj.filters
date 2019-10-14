@@ -28,4 +28,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="assignment_4.mpc" />
+  </ItemGroup>
 </Project>
